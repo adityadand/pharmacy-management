@@ -1,0 +1,7 @@
+
+Fatal Error in Converter: 
+Error: Alias 'S9186344' is not found.
+Error Number: 13
+Method: writeresult
+Offending Code: SELECT ...
+File being processed: c:\program files\microsoft visual studio\vb98\new and proper\form4.frx

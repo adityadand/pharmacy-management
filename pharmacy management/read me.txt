@@ -1,0 +1,9 @@
+(vb 6)
+1) put new and proper in C:\Program Files\Microsoft Visual Studio\VB98 
+2) put pharm.mdb file in My Documents 
+
+login cred
+
+user name = "admin"
+email = "mail@admin"
+password = "#access"
